@@ -5,7 +5,7 @@ Dataset and scripts for our paper.
 ## Dynamic analysis/MobileSubstrate Tweak/binddetours: 
 Dynamic analysis module for catching and analyzing the network service in iOS app on the fly.
 ## Dynamic analysis/top 1300 analysis result: 
-Result of dynamic analysis for top 1300 apps
+Result of dynamic analysis for top 1300 apps.
 
 ## Static analysis/IDAPython: 
 IDA plugins, static analysis module for building call hierarchy and object reference graph.
